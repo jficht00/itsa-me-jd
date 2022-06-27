@@ -1,5 +1,5 @@
 ---
-title: "JD's-first-blog-post"
+title: "JD's first blog post"
 date: 2022-06-27
 ---
 
