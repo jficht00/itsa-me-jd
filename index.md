@@ -1,12 +1,6 @@
 ---
 title: It's a me, JD
----
-
----
 author: JD
----
-
----
 description: Welcome to JD's Page!
 ---
 
