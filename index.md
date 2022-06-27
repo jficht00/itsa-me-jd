@@ -1,6 +1,12 @@
 ---
 title:JD's Page
+---
+
+---
 author: JD
+---
+
+---
 description: Welcome to JD's Page!
 ---
 
